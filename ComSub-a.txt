@@ -1,0 +1,5 @@
+//below will be details for app, while redundant at this stage will become central localation to update
+3:mapName:AppDetails
+2:maxrunlevel:1
+3:appname:ComSub v1
+ap:3:2

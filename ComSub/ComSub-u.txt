@@ -1,0 +1,5 @@
+//below will be details for app, while redundant at this stage will become central localation to update
+3:mapName:UserSettings
+0:debugging:false
+//2:runlevel:0
+//above is commented out as dont want to change a user set runlevel, present however as may be wanted later
