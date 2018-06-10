@@ -8,3 +8,5 @@ This software has the aim of;
   - Partially implemented, further implementation may include allowing wildcard file selection
 
 It is written in Java as a FOSS project.
+
+Any queries or if you wish to join the team feel free to email thatuniboy1@gmail.com
