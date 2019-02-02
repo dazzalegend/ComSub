@@ -9,4 +9,4 @@ This software has the aim of;
 
 It is written in Java as a FOSS project.
 
-Any queries or if you wish to join the team feel free to email thatuniboy1@gmail.com
+Any queries or if you wish to join the team feel free to email 
